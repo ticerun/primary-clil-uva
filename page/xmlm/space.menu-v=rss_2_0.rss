@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:access="http://www.bloglines.com/about/specs/fac-1.0">
+  <access:restriction relationship="allow" />
+  <channel>
+    <title>Wikispaces : PRIMARY &amp; SECUNDARY CLIL UNITS : space.menu - messages</title>
+    <link>http://primary-secundary-clil-units.wikispaces.com/space.menu</link>
+    <description>Messages at Wikispaces : PRIMARY &amp; SECUNDARY CLIL UNITS : space.menu</description>
+    
+    <webMaster>help@wikispaces.com (Wikispaces)</webMaster>
+    <generator>http://www.wikispaces.com/</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://primary-secundary-clil-units.wikispaces.com/page/xml/space.menu?v=rss_2_0" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Wikispaces : PRIMARY &amp; SECUNDARY CLIL UNITS : space.menu - messages</title>
+      <url>http://www.wikispaces.com/i/l.png</url>
+      <link>http://primary-secundary-clil-units.wikispaces.com/space.menu</link>
+      <width>140</width>
+      <height>48</height>
+      <description>Wikispaces</description>
+    </image>
+
+
+  </channel>
+</rss>
